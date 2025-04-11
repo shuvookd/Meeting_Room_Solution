@@ -1,4 +1,4 @@
-# 🏢 Meeting Room Solution – Power Apps
+# 🏢 Meeting Room Solution
 
 This Power Apps solution helps manage meeting room bookings effectively and resolves scheduling conflicts. Users can create, view, and manage meetings through great user experience interface.
 
@@ -84,6 +84,6 @@ This Power Apps solution helps manage meeting room bookings effectively and reso
 
 **Shuvo Kumar Das**  
 
-📧 shuvokd1210@gmail.com 
-🌐 https://www.linkedin.com/in/shuvookd/
+- 📧 [shuvokd1210@gmail.com]
+- 🌐 [https://www.linkedin.com/in/shuvookd/]
 
