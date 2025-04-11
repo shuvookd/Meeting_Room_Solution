@@ -61,16 +61,14 @@ This Power Apps solution helps manage meeting room bookings effectively and reso
 
 ## 📸 Screenshots
 
-> 📁 Make sure to store your images in an `images` folder in the same directory as this README.
-
 ### 🔷 Dashboard Page – All Meetings Overview  
-![Dashboard Page](![Image](https://github.com/user-attachments/assets/171e8dbe-cf43-47a9-91c6-621ec41da706))
+https://github.com/user-attachments/assets/171e8dbe-cf43-47a9-91c6-621ec41da706
 
 ### 🔷 Create Meeting Page – Booking Interface  
-![Create Meeting Page](![Image](https://github.com/user-attachments/assets/df1e7751-7004-4848-ab54-882e0f811a89))
+https://github.com/user-attachments/assets/df1e7751-7004-4848-ab54-882e0f811a89
 
 ### 🔷 Calendar View – Date-wise Meetings  
-![Calendar View](![Image](https://github.com/user-attachments/assets/771c5958-9976-4241-a5f6-0c8add2f34b5))
+https://github.com/user-attachments/assets/771c5958-9976-4241-a5f6-0c8add2f34b5
 
 ---
 
