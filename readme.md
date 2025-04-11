@@ -1,6 +1,6 @@
 # 🏢 Meeting Room Solution – Power Apps
 
-This Power Apps solution helps manage meeting room bookings effectively and resolves scheduling conflicts. Users can create, view, and manage meetings through a streamlined three-page interface.
+This Power Apps solution helps manage meeting room bookings effectively and resolves scheduling conflicts. Users can create, view, and manage meetings through great user experience interface.
 
 ---
 
@@ -20,9 +20,9 @@ This Power Apps solution helps manage meeting room bookings effectively and reso
 ## 🧩 Components Used
 
 - Power Apps Canvas App  
-- SharePoint List or Dataverse (data storage)  
+- SharePoint List (data storage)  
 - Power Automate (optional for notifications)  
-- Office 365 Outlook Connector (optional for calendar sync)
+- Office 365 Outlook Connector (calendar sync)
 
 ---
 
@@ -85,9 +85,8 @@ This Power Apps solution helps manage meeting room bookings effectively and reso
 
 ## 👨‍💻 Developed By
 
-**Your Name**  
-Technology Specialist – Apptriangle Limited  
-Graduate Teaching Assistant – East West University  
-📧 your.email@example.com  
-🌐 [LinkedIn or Website]
+**Shuvo Kumar Das**  
+
+📧 shuvokd1210@gmail.com 
+🌐 https://www.linkedin.com/in/shuvookd/
 
